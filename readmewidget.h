@@ -1,0 +1,4 @@
+#ifndef READMEWIDGET_H
+#define READMEWIDGET_H
+
+#endif // READMEWIDGET_H
